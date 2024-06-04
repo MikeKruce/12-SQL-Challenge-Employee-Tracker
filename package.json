@@ -1,0 +1,15 @@
+{
+  "name": "company-management",
+  "version": "1.0.0",
+  "description": "Command-line application to manage departments, roles, and employees",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "pg": "^8.7.1",
+    "inquirer": "^8.2.0"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
